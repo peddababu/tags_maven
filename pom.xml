@@ -32,9 +32,8 @@
   <scm>
   <developerConnection>scm:git:https://github.com/peddababu/tags_maven.git</developerConnection>
    
-  </scm
-
-  <build>
+  </scm>
+ <build>
     <plugins>
   <plugin>
         <groupId>org.apache.maven.plugins</groupId>
